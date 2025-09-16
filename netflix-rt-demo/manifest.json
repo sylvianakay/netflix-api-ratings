@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Netflix Rotten Tomatoes",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["http://localhost:3001/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.netflix.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

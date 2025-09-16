@@ -1,0 +1,27 @@
+{
+  "name": "netflix-rt-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sylvianakay/netflix-rt-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sylvianakay/netflix-rt-demo/issues"
+  },
+  "homepage": "https://github.com/sylvianakay/netflix-rt-demo#readme",
+  "description": ""
+}
