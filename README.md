@@ -1,7 +1,7 @@
 # 🎬 Netflix Ratings Extension
 
 A Chrome extension that enriches your Netflix experience by displaying ratings from popular sources like **Rotten Tomatoes**, **IMDb**, and **Metacritic** directly within the Netflix UI. Say goodbye to switching tabs to check a movie's score!
-![Alt text for the GIF]([your-gif-url](https://github.com/sylvianakay/netflix-api-ratings/blob/main/Recording%202025-09-16%20at%2018.56.09.gif))
+![in action](https://github.com/sylvianakay/netflix-api-ratings/blob/main/Recording%202025-09-16%20at%2018.56.09.gif)
 
 ## ✨ Key Features
 
